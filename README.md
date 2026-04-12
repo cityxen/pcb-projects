@@ -11,5 +11,5 @@ Enjoy!
 
 Don't know if this works or not. Haven't tested it yet.
 
-![cPET12InchCRT](https://raw.githubusercontent.com/cityxen/pcb-projects/refs/heads/main/commodore-PET-12-Inch-CRT/images/pcbimage.png)
+![cPET12InchCRT](https://github.com/cityxen/pcb-projects/blob/main/commodore-PET-12-Inch-CRT/images/pcbimage.png)
 
