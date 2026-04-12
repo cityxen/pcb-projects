@@ -13,6 +13,3 @@ Don't know if this works or not. Haven't tested it yet.
 
 ![cPET12InchCRT](https://raw.githubusercontent.com/cityxen/pcb-projects/refs/heads/main/commodore-PET-12-Inch-CRT/images/pcbimage.png)
 
-
-
-"# pcb-projects" 
