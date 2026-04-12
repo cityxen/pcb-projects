@@ -6,6 +6,8 @@ Enjoy!
 
 ## Apple Duo Disk Connector
 
+![appleddcc](https://github.com/cityxen/pcb-projects/blob/main/apple-duo-disk-cable/images/addcc.png)
+
 
 ## Commodore PET 12 Inch CRT PCB
 
